@@ -1,6 +1,9 @@
 # Fortigate-60F-KPN
 Use a Fortigate 60F with KPN | Configuration
 # Introduction
+
+This is project that doesn't have started jet :) 
+
 Intenet KPN - Links to Forum and other Shources
 https://forum.kpn.com/thuisnetwerk-72/instellen-eigen-router-fortigate-60f-met-iptv-options-499669
 # Design plan
